@@ -1,0 +1,1 @@
+Data directory that will hold data structures along with db
