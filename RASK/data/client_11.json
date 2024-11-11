@@ -1,0 +1,185 @@
+{
+    "personal_details": {
+        "first_name": "Client11",
+        "last_name": "Sample",
+        "age": 45,
+        "marital_status": "Married",
+        "spouse_name": "Jane Doe",
+        "children": [
+            {
+                "name": "Emma",
+                "age": 16
+            },
+            {
+                "name": "Liam",
+                "age": 12
+            }
+        ],
+        "important_dates": {
+            "birthdays": [
+                "1979-03-15",
+                "1980-08-22"
+            ],
+            "anniversary": "2005-09-10"
+        },
+        "hobbies": [
+            "Golf",
+            "Travel",
+            "Photography"
+        ],
+        "passion_projects": [
+            "Volunteering at animal shelters",
+            "Building a photography portfolio"
+        ]
+    },
+    "financial_details": {
+        "net_worth": 2500000,
+        "assets": {
+            "real_estate": [
+                {
+                    "type": "Primary residence",
+                    "value": 850000,
+                    "mortgage_balance": 300000
+                },
+                {
+                    "type": "Rental property",
+                    "value": 500000,
+                    "mortgage_balance": 200000
+                }
+            ],
+            "investments": {
+                "stocks": 400000,
+                "bonds": 200000,
+                "mutual_funds": 300000
+            },
+            "savings": 50000,
+            "business_interests": [
+                {
+                    "name": "Doe Tech Solutions",
+                    "value": 300000
+                }
+            ],
+            "collectibles": [
+                {
+                    "type": "Photography equipment",
+                    "value": 20000
+                }
+            ]
+        },
+        "liabilities": {
+            "total_liabilities": 500000,
+            "details": [
+                {
+                    "type": "Mortgage",
+                    "balance": 300000
+                },
+                {
+                    "type": "Rental property mortgage",
+                    "balance": 200000
+                }
+            ]
+        },
+        "income": {
+            "primary_income": 180000,
+            "rental_income": 30000,
+            "dividends": 10000,
+            "total_income": 220000
+        },
+        "expenses": {
+            "monthly_living_expenses": 10000,
+            "discretionary_spending": 2000,
+            "upcoming_major_expenses": [
+                {
+                    "type": "College tuition for Emma",
+                    "amount": 50000,
+                    "due_date": "2026-08-01"
+                },
+                {
+                    "type": "Family vacation to Europe",
+                    "amount": 15000,
+                    "due_date": "2025-06-15"
+                }
+            ]
+        }
+    },
+    "investment_preferences": {
+        "risk_tolerance": "Moderate",
+        "portfolio_objectives": "Growth and income generation",
+        "ethical_preferences": [
+            "ESG Investing"
+        ],
+        "experience": "Investing in mutual funds and stocks for 10 years"
+    },
+    "tax_and_estate_planning": {
+        "tax_bracket": "35%",
+        "strategies": [
+            "Tax-efficient investments",
+            "Maximizing retirement contributions"
+        ],
+        "estate_plan": {
+            "wills": true,
+            "trusts": [
+                "Family trust for children"
+            ],
+            "charitable_goals": [
+                {
+                    "organization": "Animal Welfare Foundation",
+                    "goal": "Leave $50,000 as a bequest"
+                }
+            ]
+        }
+    },
+    "short_and_long_term_goals": {
+        "short_term": [
+            "Renovate rental property",
+            "Save $30,000 for a family vacation"
+        ],
+        "long_term": [
+            "Retire at 60 with an annual income of $120,000",
+            "Fund both children\u2019s college education",
+            "Leave a legacy for future generations"
+        ]
+    },
+    "communication_preferences": {
+        "meeting_frequency": "Quarterly",
+        "preferred_style": "High-level summaries with visual reports",
+        "preferred_mediums": [
+            "Email",
+            "In-person meetings"
+        ]
+    },
+    "feedback_and_concerns": {
+        "portfolio_performance": "Satisfied but wants higher returns on real estate investments",
+        "market_concerns": "Worried about potential market downturns",
+        "life_changes": "Considering expanding the family business"
+    },
+    "meeting_notes": [
+        {
+            "date": "2024-10-04",
+            "summary": [
+                "Strategized debt repayment for mortgage and personal loans.",
+                "Reviewed tax-efficient strategies for the current fiscal year.",
+                "Reviewed tax-efficient strategies for the current fiscal year.",
+                "Analyzed performance of mutual funds in the portfolio.",
+                "Discussed market trends and portfolio adjustments."
+            ]
+        },
+        {
+            "date": "2024-03-07",
+            "summary": [
+                "Analyzed performance of mutual funds in the portfolio.",
+                "Updated the financial plan based on new income sources."
+            ]
+        },
+        {
+            "date": "2024-02-12",
+            "summary": [
+                "Explored real estate investment opportunities.",
+                "Discussed market trends and portfolio adjustments.",
+                "Discussed market trends and portfolio adjustments.",
+                "Updated the financial plan based on new income sources.",
+                "Reviewed progress towards retirement goals."
+            ]
+        }
+    ]
+}
