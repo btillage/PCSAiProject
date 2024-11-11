@@ -1,0 +1,20 @@
+[
+    {
+      "id": "A1",
+      "householdId": "1",
+      "attributes": {
+        "accountType": "retirement",
+        "balance": 500000,
+        "creationDate": "2010-01-01",
+        "performanceMetrics": {
+          "annualGrowthRate": 5.0,
+          "lastYearReturns": 4.5,
+          "riskProfile": "moderate"
+        },
+        "contributionFrequency": "monthly",
+        "advisorRecommendations": ["increase contributions for tax benefits"]
+      },
+      "emotionalReactionToPerformance": "sensitive to losses"
+    }
+  ]
+  

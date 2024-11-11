@@ -1,0 +1,23 @@
+[
+    {
+      "id": "C1",
+      "householdId": "1",
+      "attributes": {
+        "age": 50,
+        "profession": "Entrepreneur",
+        "preferredName": "John",
+        "primaryContactMethod": "email",
+        "alternateContactMethods": ["phone"],
+        "relationshipToHousehold": "primary client",
+        "communicationPreferences": {
+          "frequency": "monthly",
+          "bestContactTime": "morning",
+          "specialNotes": "prefers emails over calls on weekends"
+        }
+      },
+      "clientSegment": "business owner",
+      "personalInterests": ["golf", "travel"],
+      "personalityType": "analytical"
+    }
+  ]
+  

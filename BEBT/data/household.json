@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "name": "Smith Family",
+      "attributes": {
+        "ageRange": "45-55",
+        "profession": "Entrepreneur",
+        "familySize": 4,
+        "children": [
+          {
+            "sex": "male",
+            "age": 12,
+            "schoolStatus": "in middle school"
+          },
+          {
+            "sex": "female",
+            "age": 15,
+            "schoolStatus": "in high school"
+          }
+        ],
+        "incomeBracket": "high",
+        "location": "suburban",
+        "preferredCommunicationChannel": "email",
+        "communicationStyle": "detailed",
+        "relationshipBuildingPreferences": {
+          "frequencyOfCheckIns": "quarterly",
+          "preferredMeetingType": "in-person",
+          "specialOccasionsToNote": [
+            {
+              "occasion": "anniversary",
+              "date": "06-15"
+            },
+            {
+              "occasion": "birthday",
+              "date": "10-22"
+            }
+          ]
+        }
+      },
+      "clientSegment": "families with teenagers",
+      "preferredContactTimes": ["morning", "afternoon"],
+      "financialGoals": ["college savings", "retirement planning"],
+      "riskTolerance": "medium",
+      "psychographicProfile": {
+        "valuesAndPriorities": ["legacy", "growth"],
+        "emotionalResponseToRisk": "moderate",
+        "trustLevel": "high"
+      }
+    }
+  ]
+  
