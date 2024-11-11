@@ -1,0 +1,118 @@
+{
+    "personal_details": {
+      "first_name": "First Name of the Client",
+      "last_name": "Last Name of the Client",
+      "age": "Age of the Client",
+      "marital_status": "Marital Status (e.g., Married, Single)",
+      "spouse_name": "Spouse's Name (if applicable)",
+      "children": [
+        {
+          "name": "Child's Name",
+          "age": "Child's Age"
+        }
+      ],
+      "important_dates": {
+        "birthdays": ["Client's Birthday", "Spouse's Birthday (if applicable)"],
+        "anniversary": "Wedding Anniversary Date (if applicable)"
+      },
+      "hobbies": ["List of Hobbies (e.g., Golf, Travel)"],
+      "passion_projects": ["List of Passion Projects or Causes (e.g., Volunteering)"]
+    },
+    "financial_details": {
+      "net_worth": "Total Net Worth",
+      "assets": {
+        "real_estate": [
+          {
+            "type": "Type of Property (e.g., Primary Residence)",
+            "value": "Value of the Property",
+            "mortgage_balance": "Outstanding Mortgage Balance"
+          }
+        ],
+        "investments": {
+          "stocks": "Value of Stock Investments",
+          "bonds": "Value of Bond Investments",
+          "mutual_funds": "Value of Mutual Fund Investments"
+        },
+        "savings": "Value of Liquid Savings",
+        "business_interests": [
+          {
+            "name": "Business Name",
+            "value": "Business Value"
+          }
+        ],
+        "collectibles": [
+          {
+            "type": "Type of Collectible (e.g., Art, Photography Equipment)",
+            "value": "Value of the Collectible"
+          }
+        ]
+      },
+      "liabilities": {
+        "total_liabilities": "Total Amount of Liabilities",
+        "details": [
+          {
+            "type": "Type of Liability (e.g., Mortgage)",
+            "balance": "Outstanding Balance"
+          }
+        ]
+      },
+      "income": {
+        "primary_income": "Annual Primary Income",
+        "rental_income": "Annual Rental Income",
+        "dividends": "Annual Dividend Income",
+        "total_income": "Total Annual Income"
+      },
+      "expenses": {
+        "monthly_living_expenses": "Recurring Monthly Expenses",
+        "discretionary_spending": "Discretionary Spending",
+        "upcoming_major_expenses": [
+          {
+            "type": "Type of Major Expense (e.g., College Tuition)",
+            "amount": "Amount of Expense",
+            "due_date": "Due Date for the Expense"
+          }
+        ]
+      }
+    },
+    "investment_preferences": {
+      "risk_tolerance": "Risk Tolerance (e.g., Low, Moderate, High)",
+      "portfolio_objectives": "Investment Objectives (e.g., Growth, Income Generation)",
+      "ethical_preferences": ["List of Ethical Preferences (e.g., ESG Investing)"],
+      "experience": "Experience with Investing (e.g., 10 years in stocks)"
+    },
+    "tax_and_estate_planning": {
+      "tax_bracket": "Current Tax Bracket",
+      "strategies": ["List of Tax Strategies (e.g., Tax-efficient Investments)"],
+      "estate_plan": {
+        "wills": "True/False (Does the client have a will?)",
+        "trusts": ["List of Trusts (e.g., Family Trust)"],
+        "charitable_goals": [
+          {
+            "organization": "Name of the Organization",
+            "goal": "Charitable Goal (e.g., Leave $50,000 as a bequest)"
+          }
+        ]
+      }
+    },
+    "short_and_long_term_goals": {
+      "short_term": ["List of Short-term Goals (e.g., Save $30,000 for a vacation)"],
+      "long_term": ["List of Long-term Goals (e.g., Retire at 60 with $120,000 income)"]
+    },
+    "communication_preferences": {
+      "meeting_frequency": "Preferred Meeting Frequency (e.g., Quarterly)",
+      "preferred_style": "Preferred Communication Style (e.g., High-level Summaries)",
+      "preferred_mediums": ["List of Communication Mediums (e.g., Email, In-person)"]
+    },
+    "feedback_and_concerns": {
+      "portfolio_performance": "Client's Feedback on Portfolio Performance",
+      "market_concerns": "Specific Concerns about the Market",
+      "life_changes": "Life Changes Impacting Financial Planning"
+    },
+    "meeting_notes": [
+      {
+        "date": "Date of the Meeting",
+        "summary": ["Key Topics Discussed in the Meeting"]
+      }
+    ]
+  }
+  
