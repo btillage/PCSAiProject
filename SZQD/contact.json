@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "contact_id": "C123456",
+    "household_id": "HH123456",
+    "name": "John Smith",
+    "age": 45,
+    "retirement_age": 65,
+    "employment": {
+      "status": "Employed",
+      "job_title": "Tech Entrepreneur",
+      "company": "Smith Ventures"
+    },
+    "contact_type": "Primary",
+    "email": "john.smith@email.com",
+    "phone": "+1-555-123-4567",
+    "address": {
+      "street": "123 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "net_worth": 15000000,
+    "risk_appetite": "Moderate",
+    "investment_style": "Growth with liquidity cushion",
+    "hobbies": ["Hiking", "Traveling", "Philanthropy"],
+    "last_touchpoint": "2024-11-10",
+    "communication_preferences": {
+      "preferred_method": "Email",
+      "best_time_to_contact": "Afternoons",
+      "preferred_frequency": "Monthly updates",
+      "newsletter_subscription": true,
+      "sms_notifications": false
+    },
+    "advisor_notes": "Focus on balancing risk with long-term growth. Comfortable with speculative investments in tech and healthcare sectors."
+  }
+}
