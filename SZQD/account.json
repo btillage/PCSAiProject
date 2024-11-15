@@ -1,0 +1,15 @@
+{
+  "account": {
+    "account_id": "A789101",
+    "household_id": "HH123456",
+    "account_type": "Investment",
+    "custodian_bank": "JP Morgan",
+    "account_size": 5000000,
+    "investment_strategy": "Balanced",
+    "risk_tolerance": "Moderate",
+    "dividend_income": 200000,
+    "opened_date": "2021-05-12",
+    "last_review_date": "2024-10-10",
+    "goal": "Long-term growth and liquidity for future opportunities"
+  }
+}
