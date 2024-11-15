@@ -1,0 +1,76 @@
+{
+  "household": {
+    "household_id": "HH123456",
+    "household_name": "Smith Family",
+    "number_of_contacts": 3,
+    "assets_under_management": 12500000,
+    "primary_contact": "John Smith",
+    "address": {
+      "street": "123 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "created_at": "2024-11-15",
+    "last_review_date": "2024-10-10",
+    "advisor_notes": "Balanced risk appetite for long-term growth, maintaining liquidity for future investments, and interest in structured philanthropy.",
+    "total_income": 500000,
+    "household_liquidity": 1500000,
+    "overall_risk_appetite": "Moderate",
+    "investment_objectives": ["Long-term growth", "Philanthropy", "Liquidity for future opportunities"],
+    "contacts": [
+      {
+        "contact_id": "C123456",
+        "name": "John Smith",
+        "age": 45,
+        "retirement_age": 65,
+        "employment": {
+          "status": "Employed",
+          "job_title": "Tech Entrepreneur",
+          "company": "Smith Ventures"
+        },
+        "contact_type": "Primary",
+        "hobbies": ["Hiking", "Traveling", "Philanthropy"],
+        "net_worth": 15000000,
+        "last_touchpoint": "2024-11-10",
+        "email": "john.smith@email.com",
+        "phone": "+1-555-123-4567",
+        "risk_appetite": "Moderate",
+        "investment_style": "Growth with liquidity cushion",
+        "advisor_notes": "Focus on balancing risk with long-term growth. Comfortable with speculative investments in tech and healthcare sectors."
+      },
+      {
+        "contact_id": "C123457",
+        "name": "Sarah Smith",
+        "age": 43,
+        "retirement_age": 63,
+        "employment": {
+          "status": "Part-time",
+          "job_title": "Philanthropist",
+          "company": "N/A"
+        },
+        "contact_type": "Spouse",
+        "hobbies": ["Gardening", "Environmental causes", "Traveling"],
+        "net_worth": 15000000,
+        "last_touchpoint": "2024-10-05",
+        "email": "sarah.smith@email.com",
+        "phone": "+1-555-987-6543",
+        "risk_appetite": "Conservative",
+        "investment_style": "Income-focused with stable returns",
+        "advisor_notes": "Prefers stable, low-risk investments. Strong interest in philanthropic giving, particularly environmental causes."
+      },
+      {
+        "contact_id": "C123458",
+        "name": "Emily Smith",
+        "age": 16,
+        "employment": {
+          "status": "Student",
+          "school": "Westlake High School"
+        },
+        "contact_type": "Child",
+        "hobbies": ["Soccer", "Music"],
+        "advisor_notes": "Potential future beneficiary of the family’s investment strategy. No current risk appetite but involved in early financial literacy."
+      }
+    ]
+  }
+}
