@@ -1,0 +1,142 @@
+{
+    "personal_details": {
+        "first_name": "p7GkBgJnhA",
+        "last_name": "vyR6K5eYhz",
+        "age": 33,
+        "marital_status": "Single",
+        "spouse_name": null,
+        "children": [
+            {
+                "name": "EzC25kzfVv",
+                "age": 9
+            },
+            {
+                "name": "BRb7jpHpfI",
+                "age": 10
+            }
+        ],
+        "important_dates": {
+            "birthdays": [
+                "8/27/1987"
+            ],
+            "anniversary": "8/13/2001"
+        },
+        "hobbies": [
+            "mDEZiCUTMe",
+            "AdAgprMKUt"
+        ],
+        "passion_projects": [
+            "swh69F2JzY"
+        ]
+    },
+    "financial_details": {
+        "net_worth": 2395750,
+        "assets": {
+            "real_estate": [
+                {
+                    "type": "Primary Residence",
+                    "value": 403646,
+                    "mortgage_balance": 964756
+                }
+            ],
+            "investments": {
+                "stocks": 451643,
+                "bonds": 222797,
+                "mutual_funds": 216885
+            },
+            "savings": 154759,
+            "business_interests": [
+                {
+                    "name": "OTRzrz86Bo",
+                    "value": 922020
+                }
+            ],
+            "collectibles": [
+                {
+                    "type": "Photography Equipment",
+                    "value": 32373
+                }
+            ]
+        },
+        "liabilities": {
+            "total_liabilities": 490105,
+            "details": [
+                {
+                    "type": "Mortgage",
+                    "balance": 99852
+                }
+            ]
+        },
+        "income": {
+            "primary_income": 103060,
+            "rental_income": 5128,
+            "dividends": 5115,
+            "total_income": 122699
+        },
+        "expenses": {
+            "monthly_living_expenses": 6685,
+            "discretionary_spending": 2420,
+            "upcoming_major_expenses": [
+                {
+                    "type": "College Tuition",
+                    "amount": 17286,
+                    "due_date": "3/24/2023"
+                }
+            ]
+        }
+    },
+    "investment_preferences": {
+        "risk_tolerance": "Moderate",
+        "portfolio_objectives": "Income Generation",
+        "ethical_preferences": [
+            "Sustainable Investing"
+        ],
+        "experience": "17 years in stocks"
+    },
+    "tax_and_estate_planning": {
+        "tax_bracket": "10%",
+        "strategies": [
+            "Charitable Contributions"
+        ],
+        "estate_plan": {
+            "wills": true,
+            "trusts": [
+                "Family Trust"
+            ],
+            "charitable_goals": [
+                {
+                    "organization": "C6WYk1wRTK",
+                    "goal": "Leave $52794 as a bequest"
+                }
+            ]
+        }
+    },
+    "short_and_long_term_goals": {
+        "short_term": [
+            "Save $14079 for a vacation"
+        ],
+        "long_term": [
+            "Retire at 60 with $197320 annual income"
+        ]
+    },
+    "communication_preferences": {
+        "meeting_frequency": "Monthly",
+        "preferred_style": "High-level Summaries",
+        "preferred_mediums": [
+            "Phone"
+        ]
+    },
+    "feedback_and_concerns": {
+        "portfolio_performance": "Concerned about returns",
+        "market_concerns": "Interest Rates",
+        "life_changes": "New Job"
+    },
+    "meeting_notes": [
+        {
+            "date": "9/11/2025",
+            "summary": [
+                "HzZ44qjNLG"
+            ]
+        }
+    ]
+}
