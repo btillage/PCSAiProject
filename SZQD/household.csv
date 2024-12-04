@@ -1,0 +1,4 @@
+﻿household_id,household_name,number_of_contacts,assets_under_management,primary_contact,street,city,state,zip_code,created_at,last_review_date,total_income,household_liquidity,contact_id,name
+HH123456,Smith Family,3,12500000,John Smith,123 Elm St,New York,NY,10001,11/15/2024,10/10/2024,500000,1500000,C123456,John Smith
+,,,,,,,,,,,,,C123457,Sarah Smith
+,,,,,,,,,,,,,C123458,Emily Smith

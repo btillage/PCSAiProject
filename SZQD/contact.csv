@@ -1,0 +1,4 @@
+﻿contact_id,name,age,retirement_age,employment_status,job_title,company,contact_type,hobbies,net_worth,last_touchpoint,email,phone
+C123456,John Smith,45,65,Employed,Tech Entrepreneur,Smith Ventures,Primary,"Hiking, Traveling, Philanthropy",15000000,4/5/2024,john.smith@email.com,1234567890
+C123457,Sarah Smith,43,63,Part-time,Philanthropist,N/A,Spouse,"Gardening, Environmental causes, Traveling",15000000,4/5/2024,sarah.smith@email.com,1234567890
+C123458,Emily Smith,16,N/A,Student,N/A,Westlake High School,Child,"Soccer, Music",N/A,N/A,N/A,N/A

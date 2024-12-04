@@ -1,0 +1,2 @@
+﻿account_id,household_id,account_type,custodian_bank,account_size,investment_strategy,risk_category,opened_date,last_review_date,aum_goal
+A789101,HH123456,Investment,JP Morgan,5000000,Balanced,Moderate,5/12/2021,10/10/2024,5500000
